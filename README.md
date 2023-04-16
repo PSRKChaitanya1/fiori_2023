@@ -1,3 +1,4 @@
 # fiori_2023
 lets learn ui5
-DIALY-
+dialy -every day practice sessios
+weekly folder contains weekly projects
